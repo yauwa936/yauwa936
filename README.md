@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alvin Yau
 - 👀 I’m interested in blockchain, Solidity, cryptocurrency.
-- 🌱 I’m currently learning Solidity, Python, SQL.
+- 🌱 I’m currently learning Solidity, Python, SQL. Potentially Rust in the near future.
 - 💞️ I’m looking to collaborate on smart contracts or anything.
 - 📫 Reach me on LinkedIn.
 
